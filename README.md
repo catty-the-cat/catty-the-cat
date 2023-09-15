@@ -1,7 +1,7 @@
 ### Bienvenue chez moi!
 ![](./catty.png)
 
-Je suis __catty__, un aspirant developpeur :cat-face: :technologist_tone3:
+Je suis __catty__, un aspirant developpeur :smile_cat: :technologist:
 
 |                ||
 |----------------|-------------------------------|
